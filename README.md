@@ -19,9 +19,14 @@
 |팀원|조상수| 
 |팀원|이정현|
 
-## ERD구성
+## ERD 구성
 
+<details>
+<summary>ERD 이미지</summary>
+    
 [![NPE단속반 erd구성](./src/main/resources/static/img/Spring_Erd.png)](https://dbdiagram.io/d/647f4f07722eb774947ee12c)
+
+</details>
 
 ## 담당한 기능
 #### 유기동물 입양정보 - <a href="https://github.com/decoy8080/happy-pets-day/wiki/%08%EC%9C%A0%EA%B8%B0%EB%8F%99%EB%AC%BC-%EC%9E%85%EC%96%91-%EC%A0%95%EB%B3%B4">상세보기 WIKI로 이동</a>
